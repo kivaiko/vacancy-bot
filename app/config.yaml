@@ -1,0 +1,10 @@
+greeting: Hello. some default message
+bot_token: ***
+
+messages:
+  canceled: Отменено
+  successful: Успешно
+  failed: Ошибка
+
+superadmins:
+  - 5916601964
